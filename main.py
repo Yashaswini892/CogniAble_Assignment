@@ -13,9 +13,9 @@ deepsort = DeepSort(max_age=10, max_cosine_distance=0.2)
 
 
 # Define video source
-video_path = '/home/atulitha/Documents/CogniAble/Computer_Vision_Therapist_and_Child_Detection_and_Tracking/How to Do Play Therapy _ Building a Growth Mindset Role Play.mp4'
+video_path = 'input.mp4'
 cap = cv2.VideoCapture(video_path)
-output_path = "/home/atulitha/Documents/CogniAble/Computer_Vision_Therapist_and_Child_Detection_and_Tracking/How to Do Play Therapy _ Building a Growth Mindset Role Play_updated_output.mp4"
+output_path = "updated_output.mp4"
 
 
 
