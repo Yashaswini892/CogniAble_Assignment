@@ -63,3 +63,6 @@ Here's how to run the tracker on a sample video:
 ```bash
 python your_script.py
 
+```
+
+Please Note : We can still work on the accuracy terms if given more time
